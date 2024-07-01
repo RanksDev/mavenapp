@@ -95,13 +95,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>nexus proxy Repo</name>
 	      <url>http://18.116.10.137:8081/repository/mavenhosted-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>nexus proxy Repo</name>
 	      <url>http://18.116.10.137:8081/repository/mavenhosted-snapshot/</url>
 	    </snapshotRepository>
 	    
