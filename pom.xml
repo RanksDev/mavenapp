@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>nexus proxy Repo</name>
-	      <url>http://18.116.10.137:8081/repository/mavenhosted-releases/</url>
+	      <name>admin</name>
+	      <url>http://3.12.163.211:8081/repository/mavenhosted-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>nexus proxy Repo</name>
-	      <url>http://18.116.10.137:8081/repository/mavenhosted-snapshot/</url>
+	      <name>admin</name>
+	      <url>http://3.12.163.211:8081/repository/mavenhosted-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
